@@ -1,6 +1,6 @@
-package com.design.factory.func;
+package com.design.factory.learn.func;
 
-import com.design.factory.domian.Milk;
+import com.design.factory.learn.domian.Milk;
 
 /**
  * @Auther: colin

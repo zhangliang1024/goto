@@ -1,4 +1,4 @@
-package com.design.factory.func;
+package com.design.factory.learn.func;
 
 /**
  * @Auther: colin

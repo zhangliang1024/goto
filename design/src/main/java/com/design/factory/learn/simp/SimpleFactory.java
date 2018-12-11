@@ -1,9 +1,9 @@
-package com.design.factory.simp;
+package com.design.factory.learn.simp;
 
-import com.design.factory.domian.Mengniu;
-import com.design.factory.domian.Milk;
-import com.design.factory.domian.Telunsu;
-import com.design.factory.domian.YiLi;
+import com.design.factory.learn.domian.Mengniu;
+import com.design.factory.learn.domian.Milk;
+import com.design.factory.learn.domian.Telunsu;
+import com.design.factory.learn.domian.YiLi;
 
 /**
  * @Auther: colin

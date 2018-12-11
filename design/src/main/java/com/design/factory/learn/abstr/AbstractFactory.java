@@ -1,6 +1,6 @@
-package com.design.factory.abstr;
+package com.design.factory.learn.abstr;
 
-import com.design.factory.domian.Milk;
+import com.design.factory.learn.domian.Milk;
 
 /**
  * @Auther: colin

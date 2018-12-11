@@ -1,4 +1,4 @@
-package com.design.factory.abstr;
+package com.design.factory.learn.abstr;
 
 /**
  * @Auther: colin

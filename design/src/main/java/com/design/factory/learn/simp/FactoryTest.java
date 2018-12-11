@@ -1,6 +1,4 @@
-package com.design.factory.simp;
-
-import com.design.factory.simp.SimpleFactory;
+package com.design.factory.learn.simp;
 
 /**
  * @Auther: colin

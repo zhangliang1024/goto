@@ -1,4 +1,6 @@
-package com.design.factory.domian;
+package com.design.factory.learn.domian;
+
+import lombok.Data;
 
 /**
  * @Auther: colin

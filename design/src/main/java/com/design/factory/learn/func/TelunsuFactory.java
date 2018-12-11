@@ -1,7 +1,7 @@
-package com.design.factory.func;
+package com.design.factory.learn.func;
 
-import com.design.factory.domian.Milk;
-import com.design.factory.domian.Telunsu;
+import com.design.factory.learn.domian.Milk;
+import com.design.factory.learn.domian.Telunsu;
 
 /**
  * @Auther: colin

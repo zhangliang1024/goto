@@ -1,4 +1,4 @@
-package com.design.factory.domian;
+package com.design.factory.learn.domian;
 
 /**
  * @Auther: colin
