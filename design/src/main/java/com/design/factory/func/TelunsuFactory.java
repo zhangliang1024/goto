@@ -1,7 +1,7 @@
 package com.design.factory.func;
 
-import com.design.factory.Milk;
-import com.design.factory.Telunsu;
+import com.design.factory.domian.Milk;
+import com.design.factory.domian.Telunsu;
 
 /**
  * @Auther: colin

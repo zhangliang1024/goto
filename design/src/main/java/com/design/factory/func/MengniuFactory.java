@@ -1,7 +1,7 @@
 package com.design.factory.func;
 
-import com.design.factory.Mengniu;
-import com.design.factory.Milk;
+import com.design.factory.domian.Mengniu;
+import com.design.factory.domian.Milk;
 
 /**
  * @Auther: colin

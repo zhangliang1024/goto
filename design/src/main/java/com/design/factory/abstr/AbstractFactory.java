@@ -1,6 +1,6 @@
 package com.design.factory.abstr;
 
-import com.design.factory.Milk;
+import com.design.factory.domian.Milk;
 
 /**
  * @Auther: colin

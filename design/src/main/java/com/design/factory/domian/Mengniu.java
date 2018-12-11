@@ -1,4 +1,4 @@
-package com.design.factory;
+package com.design.factory.domian;
 
 /**
  * @Auther: colin

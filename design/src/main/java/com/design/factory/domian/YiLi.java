@@ -1,4 +1,4 @@
-package com.design.factory;
+package com.design.factory.domian;
 
 /**
  * @Auther: colin
@@ -6,7 +6,7 @@ package com.design.factory;
  * @Description:
  * @Version: V1.0
  */
-public class YiLi implements Milk{
+public class YiLi implements Milk {
 
 
     @Override
